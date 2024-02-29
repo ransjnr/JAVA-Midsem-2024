@@ -1,0 +1,1 @@
+Given the UML diagram shown below create example code for the four classes Shapes, Quadrilateral, Square, and Polygon that satisfies the requirements implied by the diagram.

@@ -1,9 +1,9 @@
 //a class called vehicle and can be accessed publicly
 public class Vehicle{
     //declaration of private variables String owner, integer wheels and string registration number
+    private String registNum;
     private String owner;
     private int wheels;
-    private String registNum;
 
     //getters and setters for the private variables
     public String getOwner() {
