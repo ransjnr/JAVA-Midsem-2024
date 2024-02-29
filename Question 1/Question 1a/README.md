@@ -1,0 +1,1 @@
+Write a java program called MyJava to print the message "Welcome to Object Oriented Programming"
